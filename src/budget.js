@@ -1,4 +1,5 @@
 export const EXPENSE_TYPES = [
+  'Housing',
   'Groceries',
   'Cigarettes',
   'Beverages',
